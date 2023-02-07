@@ -1,0 +1,67 @@
+.jumbotron {
+  background-color: #ded1bd;
+  padding-top: 9rem;
+}
+.display-4 {
+  font-weight: 500;
+  color: #b08401;
+  text-shadow: black;
+}
+.lead {
+  font-size: medium;
+  font-weight: 500;
+  color: #b08401;
+}
+h2 {
+  font-weight: 20px;
+  font-size: 35px;
+  margin-top: 1cm;
+}
+#Projects {
+  background-color: #ded1bd;
+}
+h3 {
+  font-weight: 20px;
+  font-size: 35px;
+  margin-top: 2cm;
+  margin-bottom: 0.5cm;
+  color: #b08401;
+  text-shadow: black;
+}
+h4 {
+  font-weight: 20px;
+  font-size: 35px;
+  margin-top: 1cm;
+}
+.card img:hover {
+  filter: grayscale(0);
+  transform: scale(1.1);
+}
+.card img {
+  transition: 100ms;
+}
+.jumbotron img:hover {
+  filter: grayscale(0);
+  transform: scale(1.2);
+}
+.jumbotron img {
+  transition: 0.2s;
+}
+#contact {
+  background-color: #ded1bd;
+}
+footer {
+  background-color: #b08401;
+}
+#footeer container {
+  background-color: #b08401;
+}
+section {
+  padding-top: 5rem;
+}
+.card {
+  background-color: rgba(0, 0, 0, 0.1);
+  padding-left: 1ch;
+  padding-top: 1ch;
+  padding-right: 1ch;
+}
